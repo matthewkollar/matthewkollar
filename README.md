@@ -1,12 +1,7 @@
-### Hey everyone, I'm Matt and I am currently enrolled in a full-stack developer bootcamp!
+### Hey everyone, I'm Matt and I am currently enrolled in an undergraduate full-stack developer bootcamp through GCU!
 
-- 👋 Hi, I’m @matthewkollar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, my name is Matt.
+- 👀 I’m interested in becoming a software developer!
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript and more!
+- 🎸 My favorite hobbies including PC gaming, guitar/piano recording and enjoying the outdoors 🏕
 
-<!---
-matthewkollar/matthewkollar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
