@@ -1,4 +1,4 @@
-### Hey everyone, I'm Matt and I am currently enrolled in an undergraduate full-stack developer bootcamp through <span style="color: blue">Grand Canyon University</span>!
+### Hey everyone, I'm Matt and I am currently enrolled in an undergraduate full-stack developer bootcamp through Grand Canyon University!
 
 - 👋 Hello, my name is Matt.
 - 👀 I’m interested in becoming a software developer!
